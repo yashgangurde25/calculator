@@ -1,4 +1,4 @@
-# calculator
+# CodeClauseInternship_calculator 
 # Simple Python Calculator
 
 ## Overview
